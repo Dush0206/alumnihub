@@ -58,4 +58,5 @@ npm start
 
 ## 👨‍💻 Author
 
-**Dushyanth N**
+**Sahil Ali**
+**Syed Kumail Rizvi**
