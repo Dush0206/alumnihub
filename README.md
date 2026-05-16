@@ -52,7 +52,7 @@ npm start
 
 ## 📸 Screenshots
 
-![Home](screenshots/home.png)
+![Home](screenshots.jpg)
 
 ---
 
