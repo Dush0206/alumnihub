@@ -59,4 +59,4 @@ npm start
 ## 👨‍💻 Author
 
 **Sahil Ali**
-**Syed Kumail Rizvi**
+//**Syed Kumail Rizvi**
