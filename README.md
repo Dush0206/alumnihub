@@ -58,5 +58,5 @@ npm start
 
 ## 👨‍💻 Author
 
-**Sahil Ali**
-//**Syed Kumail Rizvi**
+- 👨‍💻 Sahil Ali  
+- 👨‍💻 Syed Kumail Rizvi
