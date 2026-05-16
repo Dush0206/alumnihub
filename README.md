@@ -1,15 +1,15 @@
-🎓 AlumniHub
+# 🎓 AlumniHub
 
 🚀 A MERN stack alumni networking platform with job postings, event management, resume uploads, real-time chat, and admin controls.
 
 ---
 
-✨ Features
+## ✨ Features
 
-👥 Alumni Verification & Authentication  
-📅 Create & Manage Events  
-💼 Post & View Jobs  
-📧 Send Targeted Emails  
+- 👥 Alumni Verification & Authentication  
+- 📅 Create & Manage Events  
+- 💼 Post & View Jobs  
+- 📧 Send Targeted Emails  
 - 📂 Upload & View Resumes  
 - 📰 Publish Newsletters  
 - 💬 Real-Time Chat Rooms  
